@@ -1,5 +1,9 @@
 # Philiprehberger.BackgroundTaskQueue
 
+[![CI](https://github.com/philiprehberger/dotnet-background-task-queue/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-background-task-queue/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/Philiprehberger.BackgroundTaskQueue.svg)](https://www.nuget.org/packages/Philiprehberger.BackgroundTaskQueue)
+[![License](https://img.shields.io/github/license/philiprehberger/dotnet-background-task-queue)](LICENSE)
+
 Simple in-memory background job queue for ASP.NET Core with concurrency control.
 
 ## Install
