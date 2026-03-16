@@ -91,6 +91,12 @@ builder.Services.AddBackgroundTaskQueue();
 |--------|-------------|
 | `AddBackgroundTaskQueue(Action<BackgroundQueueOptions>?)` | Registers queue and hosted service |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.BackgroundTaskQueue.csproj --configuration Release
+```
+
 ## License
 
 MIT
