@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>Philiprehberger.BackgroundTaskQueue</PackageId>
-    <Version>0.1.1</Version>
+    <Version>0.1.2</Version>
     <Authors>Philip Rehberger</Authors>
     <Description>Simple in-memory background job queue for ASP.NET Core with concurrency control</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
