@@ -6,7 +6,7 @@
 
 Simple in-memory background job queue for ASP.NET Core with concurrency control.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.BackgroundTaskQueue
