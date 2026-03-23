@@ -7,9 +7,9 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PackageId>Philiprehberger.BackgroundTaskQueue</PackageId>
-    <Version>0.1.5</Version>
+    <Version>0.1.6</Version>
     <Authors>Philip Rehberger</Authors>
-    <Description>Simple in-memory background job queue for ASP.NET Core with concurrency control</Description>
+    <Description>Simple in-memory background job queue for ASP.NET Core with concurrency control.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/philiprehberger/dotnet-background-task-queue</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
