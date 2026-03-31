@@ -2,8 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/dotnet-background-task-queue/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-background-task-queue/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.BackgroundTaskQueue.svg)](https://www.nuget.org/packages/Philiprehberger.BackgroundTaskQueue)
-[![License](https://img.shields.io/github/license/philiprehberger/dotnet-background-task-queue)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/dotnet-background-task-queue)](https://github.com/philiprehberger/dotnet-background-task-queue/commits/main)
 
 Simple in-memory background job queue for ASP.NET Core with concurrency control.
 
@@ -98,6 +97,24 @@ builder.Services.AddBackgroundTaskQueue();
 dotnet build src/Philiprehberger.BackgroundTaskQueue.csproj --configuration Release
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/dotnet-background-task-queue)
+
+🐛 [Report issues](https://github.com/philiprehberger/dotnet-background-task-queue/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/dotnet-background-task-queue/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
